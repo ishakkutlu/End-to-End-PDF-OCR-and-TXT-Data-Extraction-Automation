@@ -18,7 +18,7 @@ Built with Python and VBA, the tools are designed to replace manual data entry p
 - Scalability: Adaptable to various document types and volumes without major changes to the codebase.
 - Integration Friendly: Designed to integrate into larger workflows (ERP, CRM, or reporting systems) if needed.
 - User Friendly: Simple VBA user interfaces and Python scripts allow non-technical users to trigger complex extraction processes easily.
-- Technologies used: Python, VBA, OCR (Tesseract), Error Handling, Batch Automation, Data Extraction, Smart Formatting.
+- Technologies used: Python, VBA, OCR (Tesseract), XpdfTools, Error Handling, Batch Automation, Data Extraction, Smart Formatting.
 
 These set of tools have been applied in real-world scenarios such as financial report extraction, invoice processing, legal document digitization, and bulk data automation.
 
