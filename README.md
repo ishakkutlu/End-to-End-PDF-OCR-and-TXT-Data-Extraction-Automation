@@ -27,7 +27,7 @@ Built with Python and VBA, the tools are designed to replace manual data entry p
 
 These set of tools have been applied in real-world scenarios such as financial report extraction, invoice processing, legal document digitization, and bulk data automation.
 
-## Demo videos:
+## Demo Videos:
 - [Watch PDF to Excel Extraction](https://youtu.be/9AGUcfkg3ko)
 - [Watch Batch PDF Conversion](https://youtu.be/PmWqi4grKsg)
 - [Watch TXT to Excel Automation](https://youtu.be/YdHy_-WE9gI)
