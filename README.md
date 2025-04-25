@@ -1,4 +1,4 @@
-# End-to-End PDF, OCR, and TXT Data Extraction Automation (Python + VBA)
+# End-to-End PDF, OCR, and TXT Data Extraction Automation
 
 This project delivers a full-stack automation solution for extracting structured data from unstructured and semi-structured documents such as PDFs, scanned PDFs (OCR), and TXT files.
 Built with Python and VBA, the tools are designed to replace manual data entry processes with fast, reliable, and scalable automation.
